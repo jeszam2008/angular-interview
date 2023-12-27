@@ -11,7 +11,7 @@ Please use Google chrome browser to complete this technical interview.
 - PrimeNG Docs: https://primeng.org/chart
 - ChartJS Docs: https://www.chartjs.org/docs/latest/charts/line.html
 - Angular Docs: https://angular.io/docs
-- API Endpoint: https://mocki.io/v1/3b2b8e67-5775-486f-ad79-9859505c7926
+- API Endpoint: 
 
 ### Get Started
 Run `npm install` to include all the dependencies for this project. PrimeNG and ChartJS are included in your angular.json already.
