@@ -5,6 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Create an http client to get data from an API endpoint.
 - Use the data to create a line graph using PrimeNG and ChartJS.
 
+### Resources
+- PrimeNG Docs: https://primeng.org/chart
+- ChartJS Docs: https://www.chartjs.org/docs/latest/charts/line.html
+- Angular Docs: https://angular.io/docs
+- API Endpoint: https://mocki.io/v1/3b2b8e67-5775-486f-ad79-9859505c7926
+
 ### Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
