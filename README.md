@@ -8,7 +8,7 @@ Please use Google chrome browser to complete this technical interview.
 - Create a new branch in this repo titled 'yourname-interview'.
 - Create an http client to get data from an API endpoint.
 - Use the data to create a line graph using PrimeNG and ChartJS.
-- Push your results to the branch you crated.
+- Publish this repo to your Github profile and provide us with the results.
 
 ### Resources
 - PrimeNG Docs: https://primeng.org/chart
