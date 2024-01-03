@@ -8,7 +8,7 @@ import { ButtonModule } from 'primeng/button';
   selector: 'app-root',
   standalone: true,
   imports: [
-    CommonModule, 
+    CommonModule,
     RouterOutlet,
     ButtonModule,
   ],

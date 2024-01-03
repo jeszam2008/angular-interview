@@ -1,0 +1,14 @@
+<ng-container *ngIf="api_data.length > 0; else noresultfound">
+  <h3>Results found for {{ api_data[0].date | date : "MMMM yyyy" }}</h3>
+  <div class="card">
+    <p-chart
+      type="line"
+      [data]="chart.data"
+      [options]="chart.options"
+    ></p-chart>
+  </div>
+</ng-container>
+
+<ng-template #noresultfound>
+  <h3>No result found</h3>
+</ng-template>
